@@ -19,6 +19,7 @@ Ao longo do desenvolvimento, percebi que a visualização padrão entregava mét
 * **Engenharia de Atributos :** Unifiquei "Crianças" e "Adolescentes" em uma única métrica de **Dependentes**. No dia a dia de uma decisão de marketing, entender o impacto da carga familiar no orçamento é mais ágil do que analisar faixas etárias isoladas.
 * **Design Estratégico com Figma:** Desenvolvi um background customizado para garantir que os KPIs tivessem o devido destaque.
 * **Eficiência das Campanhas:** Contrário ao modelo original que fornecia uma visão geral das campanhas, criei uma análise comparativa entre as 5 campanhas. Isso permite identificar rapidamente qual estratégia de marketing teve maior taxa de conversão com determinados grupos.
+* **Métricas:** Criei uma medida de taxa de conversão por campanha — quantos clientes de um segmento converteram em relação ao total exposto àquela campanha.
 
   
 ## 🔍 Estrtura do Dashboard
